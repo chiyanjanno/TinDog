@@ -1,0 +1,150 @@
+#title{
+  background-color: #ff4c68;
+  color: white;
+
+}
+.align{
+  font-family: 'Montserrat-Bold', sans-serif;
+
+}
+.price{
+  padding: 5% 0%;
+}
+.sign{
+  background-color: #ff4c68;
+}
+#testimonials{
+  background-color: #ff4c68;
+  color: white;
+  text-align: center;
+
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.testimonial-image{
+  width: 15%;
+  border-radius: 100%;
+}
+
+
+#press{
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 4%;
+}
+.press-img{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.fas{
+  color: #ef8172;
+  padding-bottom:5%;
+}
+.fas:hover{
+  color:#ff4c68;
+}
+.para{
+  color: #8f8f8f;
+}
+.mont{
+  /* font-family: "Montserrat-Bold",sans-serif; */
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+body{
+  font-family:"Montserrat", sans-serif;
+}
+.head{
+font-family: "Montserrat-black 900", sans-serif;
+font-size: 3.5rem;
+font-weight: 900;
+line-height: 1.5;
+
+
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+.navbar-brand{
+  font-family: 'ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navbar{
+  padding:0 0 4.5rem;
+}
+.chiya{
+  background-color: yellow;
+  border: 1px solid;
+}
+.nav-item{
+  padding:0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+.d-button{
+  margin: 5% 3% 5% 0;
+}
+.iphone{
+  transform: rotate(20deg);
+  width:60%;
+  position: absolute;
+
+}
+.carousel-item{
+  height: 500px;
+}
+/*pricing*/
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  color: #fff;
+
+}
+.pd{
+padding: 3%;
+}
+.cta-head{
+  font-family: "Montserrat-black 900", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+#footer{
+  text-align: center;
+  padding: 7% 15%;
+}
+.social{
+  margin: 20px 20px;
+}
+@media (max-width:1107px) {
+  #title{
+    text-align: center;
+  }
+  .iphone{
+    position: static;
+    transform: rotate(0);
+  }
+}
